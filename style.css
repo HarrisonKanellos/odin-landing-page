@@ -9,3 +9,31 @@ body {
     width: 90vw;
 }
 
+/* Section 1 */
+
+.first-section {
+    color: #1F2937;
+}
+
+/* Header */
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+/* Nav */
+li {
+    font-size: 18px;
+    color: #E5E7EB;
+}
